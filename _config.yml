@@ -11,9 +11,9 @@ title                    : "Tsung-Wun Wang"
 title_separator          : "-"
 name                     : &name "Tsung-Wun Wang"
 description              : &description "Student at National Taiwan University"
-url                      : "https://twwang97.github.io" # the base hostname & protocol for your site e.g. "https://username.github.io"
+url                      : "https://tsungwun.github.io" # the base hostname & protocol for your site e.g. "https://username.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "twwang97/twwang97.github.io"
+repository               : "tsungwun/tsungwun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "twwang97@gmail.com"
+  email            : "tsungwun.wang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "twwang97"
+  github           : "tsungwun"
   google_plus      :
   keybase          :
   instagram        :

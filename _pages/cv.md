@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
-[Download my resume here.](http://twwang97.github.io/files/professional_standard_resume_0915.pdf)
+[Download my resume here.](http://tsungwun.github.io/files/professional_standard_resume_0915.pdf)
 
 Education
 ======
 * M.S. in Mechanical Engineering, National Taiwan University, 2023
-  * Thesis: [Development of 3D Reconstruction and Navigation for Mobile Robots](https://twwang97.github.io/thesis/)
+  * Thesis: [Development of 3D Reconstruction and Navigation for Mobile Robots](https://tsungwun.github.io/thesis/)
   * Relevant Coursework: Advanced Computer Vision, 3D Computer Vision with Deep Learning Applications, Operating Systems, Adaptive Signal Processing, System Identification
 * B.S. in Mechanical Engineering, National Taiwan University, 2020
   * Relevant Coursework: Robot Vision, Introduction to Robotics, Machine Learning
@@ -55,7 +55,7 @@ Course projects
   * Integrated Mask-RCNN to handle dynamic obstacles in SLAM structure.
   * Validated the approach using a handheld RealSense camera.
 
-* <b>MIMO System Identification of A Quadcopter</b> (Spring 2022) [report](http://twwang97.github.io/files/report_sysID_David.pdf) [video](https://youtube.com/shorts/HsXJFUH4R2Q)
+* <b>MIMO System Identification of A Quadcopter</b> (Spring 2022) [report](http://tsungwun.github.io/files/report_sysID_David.pdf) [video](https://youtube.com/shorts/HsXJFUH4R2Q)
   * Conducted MIMO system identification on a quadcopter, comparing various models.
   * Designed and tested a robust controller, evaluating performance improvements.
 
