@@ -1,0 +1,30 @@
+# main links links
+main:
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Thesis"
+    url: /thesis/
+
+  - title: "Computer Vision"
+    url: /visions/
+
+  - title: "Controls"
+    url: /controls/
+
+  # - title: "Publications"
+  #   url: /publications/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  
+    
+  # - title: "Guide"
+  #   url: /markdown/
