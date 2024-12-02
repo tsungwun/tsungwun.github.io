@@ -1,0 +1,33 @@
+# main links links
+main:
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Thesis"
+    url: /thesis/
+
+  - title: "Publications"
+    url: https://tsungwun.github.io/thesis/thesis-0/
+    
+  - title: "Computer Vision"
+    url: /visions/
+
+  - title: "Controls"
+    url: /controls/
+
+  # - title: "Publications"
+  #   url: /publications/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+  
+    
+  # - title: "Guide"
+  #   url: /markdown/
