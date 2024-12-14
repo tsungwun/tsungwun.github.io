@@ -42,6 +42,9 @@ Work experience
 * **Firmware Engineering Intern** at [Aeroprobing Inc.](https://aeroprobing.com/) (Jun. 2021 – Aug. 2022)  
   * Developed real-time systems for drones, focusing on sensor management and control using advanced filtering techniques, which enhanced flight stability and accuracy.
 
+* **Teaching Assistant (Linear Control Systems)** at [National Taiwan University](http://www.me.ntu.edu.tw/main.php) (Sept. 2021 – Jan. 2022)  
+  * Graded assignments and exams and answered student questions to help students improve their understanding of control theory and system dynamics.
+
 * **Mechanical Engineering Intern** at [Symbio, Inc.](https://www.symbioinc.com.tw/zh-tw) (Jul. 2018 – Aug. 2018)  
   * Innovated tools to enhance coating efficiency and product quality.
 
@@ -52,9 +55,9 @@ Courses & Certifications
 ======
 * **VLSI CAD Part I: Logic** (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/verify/IITCCWT542BK)  
   * Completed on Oct. 2024  
-  * Topics include Boolean representation via BDDs and SAT, 2-level and multi-level logic synthesis.
+  * Topics include Boolean representation via BDDs and SAT, two-level and multi-level logic synthesis.
 
-* **FPGA Computing Systems** (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/specialization/ZB0ZIV4NIA6A)  
+* **FPGA Computing Systems** (Coursera **Specialization**, four courses included) [Certificate](https://www.coursera.org/account/accomplishments/specialization/ZB0ZIV4NIA6A)  
   * Completed on Aug. 2024  
   * Topics covered FPGA computing systems, partial dynamic reconfiguration, and FPGA-accelerated cloud application development using SDAccel.
 
@@ -70,15 +73,20 @@ Courses & Certifications
   * Completed on Aug. 2024  
   * Topics covered motherboard configuration, CPU, add-on cards, and memory installation.
 
-* **Google IT Automation with Python** (Coursera) [Certificate](https://www.coursera.org/account/accomplishments/specialization/529BUML5FSHT)  
+* **Google IT Automation with Python** (Coursera **Specialization**, six courses included) [Certificate](https://www.coursera.org/account/accomplishments/specialization/529BUML5FSHT)  
   * Completed on Jul. 2024  
   * Topics include Git, Python for automation, debugging, cloud configuration management, and real-world task automation.
 
+* **Robotics Engineer - Elementary Level** (No. 2017-3-0034)
+  * Passed on Jan. 2018
+  * Certified by Taiwan Automation Intelligence and Robotics Association (TAIROA)
+
 Skills
 ======
-* **Programming Languages**: C/C++, Python, C#, VHDL
-* **Software Tools**: Matlab (including Simulink), HTML/CSS, PyMesh, Blender, AutoCAD, FreeCAD, Inventor, PTC Creo, PetaLinux
-* **Hardware Platforms**: Arduino, STM32 (including FreeRTOS), Vivado
+* **Programming**: C/C++, Python, VHDL, HTML/CSS, LaTeX
+* **Embedded Systems Tools**: Petalinux, Vitis, Vivado, FreeRTOS, Git
+* **Design & Simulation**: Matlab (Simulink), AutoCAD, Solidworks, PTC Creo
+* **Hardware Platforms**: STM32 CubeIDE, Arduino, LabVIEW
 
 Activities
 ======
